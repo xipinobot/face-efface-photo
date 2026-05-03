@@ -46,7 +46,8 @@ const I18N = {
     modal_dl_p2: "Linux et Android à venir. 100 % local, aucune donnée envoyée sur internet.",
     modal_dl_p3: `<strong>Ce que vos dons permettent de développer :</strong><br>— Version Vidéo — floutage automatique sur vidéo<br>— Mises à jour régulières et nouveaux outils de protection de la vie privée`,
     modal_dl_cta: "💛 Soutenir &amp; télécharger sur Tipeee",
-    float_btn: `💛 Application bientôt disponible<br>Soutenir sur Tipeee`,
+    float_btn: `💛 Applications Windows &amp; Linux disponibles<br>Suivez ce lien<br><small style="font-size:0.75em;opacity:0.8;">Soutenez-nous sur Tipeee</small>`,
+    tipeee_support: "💛 Soutenir sur Tipeee",
   },
 
   en: {
@@ -86,7 +87,8 @@ const I18N = {
     modal_dl_p2: "Linux and Android coming soon. 100% local, no data sent over the internet.",
     modal_dl_p3: `<strong>What your donations help develop:</strong><br>— Video version — automatic video blurring<br>— Regular updates and new privacy protection tools`,
     modal_dl_cta: "💛 Support &amp; download on Tipeee",
-    float_btn: `💛 App coming soon<br>Support on Tipeee`,
+    float_btn: `💛 Windows &amp; Linux apps available<br>Follow this link<br><small style="font-size:0.75em;opacity:0.8;">Support us on Tipeee</small>`,
+    tipeee_support: "💛 Support on Tipeee",
   },
 
   es: {
@@ -126,7 +128,8 @@ const I18N = {
     modal_dl_p2: "Linux y Android próximamente. 100 % local, sin datos enviados a internet.",
     modal_dl_p3: `<strong>En qué se invierten tus donaciones:</strong><br>— Versión Vídeo — desenfoque automático en vídeo<br>— Actualizaciones regulares y nuevas herramientas de privacidad`,
     modal_dl_cta: "💛 Apoyar &amp; descargar en Tipeee",
-    float_btn: `💛 App próximamente disponible<br>Apoyar en Tipeee`,
+    float_btn: `💛 Apps Windows &amp; Linux disponibles<br>Sigue este enlace<br><small style="font-size:0.75em;opacity:0.8;">Apóyanos en Tipeee</small>`,
+    tipeee_support: "💛 Apoyar en Tipeee",
   },
 
   it: {
@@ -166,7 +169,8 @@ const I18N = {
     modal_dl_p2: "Linux e Android in arrivo. 100% locale, nessun dato inviato su internet.",
     modal_dl_p3: `<strong>A cosa servono le tue donazioni:</strong><br>— Versione Video — sfocatura automatica su video<br>— Aggiornamenti regolari e nuovi strumenti per la privacy`,
     modal_dl_cta: "💛 Supporta &amp; scarica su Tipeee",
-    float_btn: `💛 App disponibile a breve<br>Supporta su Tipeee`,
+    float_btn: `💛 App Windows &amp; Linux disponibili<br>Segui questo link<br><small style="font-size:0.75em;opacity:0.8;">Supportaci su Tipeee</small>`,
+    tipeee_support: "💛 Supporta su Tipeee",
   },
 
   de: {
@@ -206,7 +210,8 @@ const I18N = {
     modal_dl_p2: "Linux und Android folgen. 100 % lokal, keine Daten ins Internet gesendet.",
     modal_dl_p3: `<strong>Wofür Ihre Spenden verwendet werden:</strong><br>— Video-Version — automatische Video-Unschärfe<br>— Regelmäßige Updates und neue Datenschutztools`,
     modal_dl_cta: "💛 Unterstützen &amp; herunterladen auf Tipeee",
-    float_btn: `💛 App demnächst verfügbar<br>Unterstützen auf Tipeee`,
+    float_btn: `💛 Windows &amp; Linux Apps verfügbar<br>Folge diesem Link<br><small style="font-size:0.75em;opacity:0.8;">Unterstütze uns auf Tipeee</small>`,
+    tipeee_support: "💛 Unterstützen auf Tipeee",
   },
 
   pt: {
@@ -246,7 +251,8 @@ const I18N = {
     modal_dl_p2: "Linux e Android em breve. 100 % local, sem dados enviados pela internet.",
     modal_dl_p3: `<strong>O que as suas doações permitem desenvolver:</strong><br>— Versão Vídeo — desfoque automático em vídeo<br>— Atualizações regulares e novas ferramentas de privacidade`,
     modal_dl_cta: "💛 Apoiar &amp; descarregar no Tipeee",
-    float_btn: `💛 App disponível em breve<br>Apoiar no Tipeee`,
+    float_btn: `💛 Apps Windows &amp; Linux disponíveis<br>Siga este link<br><small style="font-size:0.75em;opacity:0.8;">Apoie-nos no Tipeee</small>`,
+    tipeee_support: "💛 Apoiar no Tipeee",
   },
 };
 
